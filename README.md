@@ -10,6 +10,8 @@ Technology student passionate about creating intuitive digital experiences throu
 
 I have experience developing interfaces using Figma and building responsive applications with HTML, CSS, and JavaScript. I'm currently studying React to enhance my front-end skills and exploring Data Science with Python. I enjoy tackling challenges that combine design and programming, and I'm always seeking opportunities to grow as a professional while contributing to innovative projects.
 
+## Technologies & Tools
+
  <div style="display: inline-block">
   <img align="center" alt="logo Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="logo HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
