@@ -1,12 +1,12 @@
 <img align="right" height="200" src="https://ibb.co/CKDk6MG1">
 
-# 👋 Hey, I'm Liriel Felix!
+# Hey, I'm Liriel Felix!
 
 🎓 Bachelor's student in Information Technology at UFRN  
 💻 Focused on Front-End Development and UI/UX Design  
 📊 Exploring Data Science with Python  
 
-## 🧠 About Me
+## About Me
 
 Hello! I'm Liriel, a technology student passionate about creating intuitive digital experiences through Front-End Development and UI/UX Design. I'm currently contributing to the **NATAL Study** - a scientific research project for longitudinal monitoring of cardiovascular events and falls in elderly people (80+), where I work on enhancing the project's website and digital platforms, focusing on feature updates and usability improvements.
 
@@ -14,21 +14,24 @@ I have experience developing interfaces using Figma and building responsive appl
 
 I enjoy tackling challenges that combine design and programming, and I'm always seeking opportunities to grow as a professional while contributing to innovative projects.
 
-## 🛠️ Technologies & Tools
-
-**Front-End:** `HTML` `CSS` `JavaScript` `React`  
-**Design:** `Figma` `UI/UX Design` `Prototyping`  
-**Data Science:** `Python` `Pandas` `Data Analysis`  
-**Tools:** `Git` `VS Code` 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&theme=radical"/>
+ <div style="display: inline-block">
+  <img align="center" alt="logo Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" alt="logo HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="logo CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="logo JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="logo React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="logo Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="logo Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
-## 📫 Let's Connect!
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liriel-Felix&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liriel-Felix&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+## Let's Connect!
 
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/liriel-felix#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/liriel-felix/)
