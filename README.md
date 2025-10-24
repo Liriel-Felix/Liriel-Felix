@@ -8,9 +8,7 @@
 
 Technology student passionate about creating intuitive digital experiences through Front-End Development and UI/UX Design. I'm currently contributing to the **NATAL Study** - a scientific research project for longitudinal monitoring of cardiovascular events and falls in elderly people (80+), where I work on enhancing the project's website and digital platforms, focusing on feature updates and usability improvements.
 
-I have experience developing interfaces using Figma and building responsive applications with HTML, CSS, and JavaScript. I'm currently studying React to enhance my front-end skills and exploring Data Science with Python. I'm always seeking new challenges that combine design thinking with practical programming solutions.
-
-I enjoy tackling challenges that combine design and programming, and I'm always seeking opportunities to grow as a professional while contributing to innovative projects.
+I have experience developing interfaces using Figma and building responsive applications with HTML, CSS, and JavaScript. I'm currently studying React to enhance my front-end skills and exploring Data Science with Python. I enjoy tackling challenges that combine design and programming, and I'm always seeking opportunities to grow as a professional while contributing to innovative projects.
 
  <div style="display: inline-block">
   <img align="center" alt="logo Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
