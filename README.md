@@ -1,5 +1,3 @@
-<img align="right" height="200" src="https://ibb.co/CKDk6MG1">
-
 # Hey, I'm Liriel Felix!
 
 🎓 Bachelor's student in Information Technology at UFRN  
@@ -8,7 +6,7 @@
 
 ## About Me
 
-Hello! I'm Liriel, a technology student passionate about creating intuitive digital experiences through Front-End Development and UI/UX Design. I'm currently contributing to the **NATAL Study** - a scientific research project for longitudinal monitoring of cardiovascular events and falls in elderly people (80+), where I work on enhancing the project's website and digital platforms, focusing on feature updates and usability improvements.
+Technology student passionate about creating intuitive digital experiences through Front-End Development and UI/UX Design. I'm currently contributing to the **NATAL Study** - a scientific research project for longitudinal monitoring of cardiovascular events and falls in elderly people (80+), where I work on enhancing the project's website and digital platforms, focusing on feature updates and usability improvements.
 
 I have experience developing interfaces using Figma and building responsive applications with HTML, CSS, and JavaScript. I'm currently studying React to enhance my front-end skills and exploring Data Science with Python. I'm always seeking new challenges that combine design thinking with practical programming solutions.
 
