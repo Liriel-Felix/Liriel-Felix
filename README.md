@@ -1,8 +1,8 @@
 # Hey, I'm Liriel Felix!
 
-🎓 Bachelor's student in Information Technology at UFRN  
-💻 Focused on Front-End Development and UI/UX Design  
-📊 Exploring Data Science with Python  
+- Bachelor's student in Information Technology at UFRN  
+- Focused on Front-End Development and UI/UX Design  
+- Exploring Data Science with Python  
 
 ## About Me
 
