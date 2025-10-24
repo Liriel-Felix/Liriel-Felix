@@ -1,3 +1,5 @@
+<img align="right" height="200" src="https://ibb.co/CKDk6MG1">
+
 # 👋 Hey, I'm Liriel Felix!
 
 🎓 Bachelor's student in Information Technology at UFRN  
